@@ -1,9 +1,12 @@
 # 🪰 FlyDAR - Fruit Fly Detection Alert Response
 
+
 Try out FlyDAR here:
 [🪰 FLYDAR](https://flydar.herokuapp.com/)
 
 Demo the app it by registering and adding this sample fly-trap Unique ID: **ABC-123**
+
+Update: this app was deployed using Heroku's free tier which is sadly no longer available
 
 ##  About Fruit Fly
 
@@ -41,10 +44,6 @@ Full Stack Web App with authentication. <br/>
 Front-End: _React_ <br/>
 Back-End: _Django_ <br/>
 Deployed on Heroku <br/>
-
-## Wireframes
-
-Link to come
 
 ## Unsolved problems and future planned updates
 
